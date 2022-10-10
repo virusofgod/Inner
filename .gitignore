@@ -9,4 +9,4 @@ Default ignored files
 .idea/uiDesigner.xml
 .idea/GitLink.xml
 .idea/.gitignore
-OUT/*.*
+/OUT/*.*
